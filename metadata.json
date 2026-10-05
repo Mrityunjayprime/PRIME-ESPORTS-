@@ -1,0 +1,6 @@
+{
+  "name": "Prime Esports",
+  "description": "Prime Esports is the premier social & entertainment platform for gamers featuring live streams, reels, chat, voice/video calls, tournaments, and creator feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
